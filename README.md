@@ -57,5 +57,5 @@ git clone https://github.com/mankotia412vishal/Notifyomatic
 
 ## Support
 
-For support, email mankotia412vishal@gmail.com.
+For support, email nupur.shinde20@vit.edu
 

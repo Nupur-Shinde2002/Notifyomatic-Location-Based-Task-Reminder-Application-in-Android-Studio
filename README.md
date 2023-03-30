@@ -22,7 +22,7 @@ This Project is a Location based task Remainder.
 1 ) Clone project with git
 
 ```bash
-git clone https://github.com/mankotia412vishal/Notifyomatic
+git clone https://github.com/Nupur-Shinde2002/Notifyomatic-Location-Based-Task-Reminder-Application-in-Android-Studio
 ```
 2 ) Required Android studio
 
